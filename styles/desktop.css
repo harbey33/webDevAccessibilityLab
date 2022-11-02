@@ -26,6 +26,9 @@ nav ul {
   padding-left: 0;
   flex-direction: row;
 }
+li{
+  color: #fff;
+}
 nav ul li {
   display: inline;
   padding-left: 10px;
