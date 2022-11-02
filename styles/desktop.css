@@ -22,6 +22,12 @@ header h1 a:hover {
 nav li a:hover {
   color: #7e8aa2;
 }
+div a{
+  color: #fff
+}
+div a:visited{
+  color: #fff
+}
 nav ul {
   padding-left: 0;
   flex-direction: row;
@@ -36,7 +42,6 @@ nav ul li {
 nav li:first-child {
   border-left: none;
 }
-
 main {
   display: flex;
 }
