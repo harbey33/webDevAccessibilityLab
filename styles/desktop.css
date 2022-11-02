@@ -22,10 +22,10 @@ header h1 a:hover {
 nav li a:hover {
   color: #7e8aa2;
 }
-div a{
+div#logo a{
   color: #fff
 }
-div a:visited{
+div#logo a:visited{
   color: #fff
 }
 nav ul {
